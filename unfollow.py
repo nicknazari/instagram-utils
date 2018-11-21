@@ -20,7 +20,7 @@ passwordbox = driver.find_element_by_name("password")
 usernamebox.send_keys(username)
 passwordbox.send_keys(password, Keys.ENTER)
 
-time.sleep(1)
+time.sleep(2)
 
 driver.get("https://www.instagram.com/" + login.username)
 followinglink = driver.find_element_by_partial_link_text('following')
