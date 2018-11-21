@@ -9,3 +9,5 @@ To run, make sure you have the correct driver for your browser. By default, the 
 - create app for liking
 - research other functionality that could be automated (posting specifically but not sure if this works from web)
 - increase the unfollow limit; currently stuck at 12 because Xpath changes when more followers are loaded
+- once more apps are built, consolidate them in to one app with better user experience 
+- possibly make this into a `haxor-news` style application
